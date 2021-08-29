@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @isYEPPI
 - 👀 I’m interested in Animation
 - 🌱 I’m currently learning about Create Indie Game
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instargram DM @2rye_won
 
 <!---
